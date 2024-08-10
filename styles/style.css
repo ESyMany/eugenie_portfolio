@@ -4,8 +4,14 @@ body {
     background-color: #f9f9f9;
     color: #333;
 }
-h1, h2, h3 {
-    color: #0056b3;
+h1 {
+    color: #2e86c1;
+}
+h2 {
+    color: #148f77;
+}
+h3 {
+    color: #6c3483 ;
 }
 ul {
     list-style-type: none;
